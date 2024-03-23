@@ -1,0 +1,27 @@
+.div1 {
+  background-color: #053f0d;
+  width: 500px;
+  height: 500px;
+}
+.div2 {
+  background-color: #1b1b16;
+  height: 50%;
+  width: 50%;
+}
+.div3 {
+  width: 50%;
+  height: 50vh;
+  background-color: #e4d93c;
+}
+.div4 {
+  width: 75vw;
+  height: 50%;
+  background-color: #bdae2a;
+}
+.p1 {
+  color: #a7dbbe;
+  background-color: #eaebe2;
+  font-size: 20px;
+  font-family: fantasy;
+  font-style: oblique;
+}
